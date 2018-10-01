@@ -1,0 +1,6 @@
+debian/files
+debian/.debhelper/
+debian/nemo-rabbitvcs/
+debian/rabbitvcs-nemo/
+debian/*.log
+debian/*.substvars
