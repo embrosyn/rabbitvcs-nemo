@@ -1,3 +1,9 @@
+rabbitvcs-nemo (0.17.1-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Thu, 15 Nov 2018 08:57:00 +0100
+
 rabbitvcs-nemo (0.17.1) ubuntuReleaseName; urgency=medium
 
   * Initial release based on version 3.6.0 of nemo-rabbitvcs
